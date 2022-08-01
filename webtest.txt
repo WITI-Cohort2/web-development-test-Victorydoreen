@@ -1,0 +1,28 @@
+Namyenya Doreen, 2022/DCSE/029/SS
+
+Question 1
+1(a)
+ Elements are characters with opening and closing tags that add meaning to the text, these can be self closing like <hr>, <img>
+ and those that are not self closing like <p></p>, <h1></h1>
+
+1(b) 
+Attributes; are embeded with in the opening tag of an element to give more meaning
+forexample <p id="fourth"></p>, in this case id is an attribute.
+
+1(c) 
+selectors, These enable a developer in css to select a given portion and
+ add the desired attributes without embedding to each element in html.
+ forexample one can just add color, text alignment, padding and it selects the desired portion
+
+1(d)
+semantic elements; these are elements with meaning.
+forexample h1,this element enables one to create text in form 
+of a heading, that will stand out from the rest that do not have this elament.
+
+1(e)
+Web accessiblity refers to the ease to read and understand content on the web by the visitors, 
+they can be normal people  or those with temporary or permanent disability like those low vision or people without disabilities.
+ forexample one's page having a page zoom allows people with low vison to zoom and see the content on the page
+1(f)
+Web server refers to with a computer with so many files stored on it and these files are displayed on the web whenever requested.
+An  example can be google chrome, mozilla firefox.
